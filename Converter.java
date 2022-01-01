@@ -21,8 +21,6 @@ public class Converter {
         }
     }
 	
-	void printer() {
-		System.out.println("How r u"); // Print hellos
-	}
+	
 }
 
